@@ -6,12 +6,17 @@ dentro da aréa especifica da informática aprendo sobre diversas coisas como pr
 
 
 
-POSSUO CONHECIMENTOS SOBRE 
+<h2 align="center">Estatísticas</h2>
 
+###
 
-<img align="center" height="60" width ="60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-<img align="center" height ="60" width ="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RuanS-2007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="134" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RuanS-2007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=linguagens%20mais%20utilizadas" height="133" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=RuanS-2007&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
+###
 
 
 
