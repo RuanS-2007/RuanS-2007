@@ -1,15 +1,15 @@
 <br clear="both">
-<h2 align="center">Sobre Mim</h2>
+<h2 align="center">Sobre Mim ✨</h2>
 
 ###
 
-<p align="left">olá meu nome é Ruan da Silva Araujo:)<br><br>    Atualmente tenho 17 anos e sou estudante do curso técnico em informática no Instituto Federal do Maranhão -IFMA<br>dentro da área especifica da informática aprendo sobre diversas coisas como programação,desenvolvimento web,noções de design e desenvolvimento digital é como me manter sempre atualizado , já tive oportunidades de fazer alguns trabalhos em de web e outras áreas da informática já tendo até participado de importantes eventos com trabalhos desenvolvidos dentro do meu âmbito de aprendizado.Fugindo da parte acadêmica e profissional e indo para o cotidiano eu me descreveria com um perfil de alegre,extrovertido,criativo e comunicativo estou sempre buscando novas coisas para fazer e tento aproveitar ao máximo cada momento da minha vida gosto de jogos online e dançar .</p>
+<p align="left">👋🏿 olá meu nome é Ruan da Silva Araujo 😉 <br><br>    Atualmente tenho 17 anos e sou estudante do curso técnico em informática no Instituto Federal do Maranhão -IFMA<br>dentro da área especifica da informática aprendo sobre diversas coisas como programação,desenvolvimento web,noções de design e desenvolvimento digital é como me manter sempre atualizado , já tive oportunidades de fazer alguns trabalhos em de web e outras áreas da informática já tendo até participado de importantes eventos com trabalhos desenvolvidos dentro do meu âmbito de aprendizado.Fugindo da parte acadêmica e profissional e indo para o cotidiano eu me descreveria com um perfil de alegre,extrovertido,criativo e comunicativo estou sempre buscando novas coisas para fazer e tento aproveitar ao máximo cada momento da minha vida gosto de jogos online e dançar .</p>
 
 ###
+<br>
 
-<h2 align="center">Tecnologias</h2>
-
-###
+<h2 align="center">Tecnologias 💻</h2>
+<br>
 
 <br clear="both">
 
@@ -26,8 +26,8 @@
 </div>
 
 ###
-
-<h2 align="center">Estatísticas</h2>
+<br><br>
+<h2 align="center">Estatísticas 📊</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<h2 align="center">Redes Sociais</h2>
+<h2 align="center">Redes Sociais 😛</h2>
 
 ###
 
